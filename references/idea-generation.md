@@ -1,0 +1,3 @@
+# Research idea generation
+
+Start with a precise contradiction or missing capability in current models. Explore alternate physical representations, observation strategies, latent-variable structures, inference paradigms, information-theoretic objectives, and cross-domain transfers. For each candidate specify: problem statement; exact new mathematical object; inference/optimization procedure; claimed mechanism; strongest closest prior art; expected win conditions; likely failure conditions; minimum discriminating experiment. Reject ideas that only rename an existing prior or add a tuning heuristic without a research question. Present 2–3 genuinely distinct alternatives when brainstorming, not dozens of cosmetic variants.
