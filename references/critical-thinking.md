@@ -1,0 +1,3 @@
+# Critical reading checklist
+
+Separate: (1) author-stated limitation; (2) limitation logically derived from assumptions; (3) empirical weakness; (4) unverified speculation. Test identifiability, approximation error, misspecification, optimization nonconvexity, information leakage, computational scaling, data-generation mismatch, and fairness. Ask whether an observed error could instead arise from initialization, convergence, baseline adaptation, or hyperparameter selection. Identify at least one possible falsification test for consequential critiques. Do not imply that every assumption is unreasonable.
