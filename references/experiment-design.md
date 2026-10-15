@@ -1,0 +1,3 @@
+# Experiment reasoning
+
+For each hypothesis, state what observation would support or refute it and what alternative mechanism could yield the same result. Define controlled channel/data model, estimator-visible information, paired observations, baseline fidelity, hyperparameter protocol, independent development/test separation, uncertainty and runtime reporting. Include SNR and measurement-budget sweeps only when tied to a claim. Prefer one decisive ablation over many decorative figures. Keep oracle information out of deployable estimators. Adapted baselines must disclose assumptions; report credible negative results.
