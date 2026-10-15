@@ -1,0 +1,3 @@
+# Scientific paper argumentation
+
+Organize: concrete scientific difficulty → precise limitation of closest work → central mathematical/physical insight → model and inference derivation → experiments designed to test each claim → scoped conclusion. Separate contributions from implementation details. The abstract should quickly convey problem, gap, mechanism, and strongest *verified* evidence. Each figure should answer a question. Avoid generic three-part hype, empty superlatives, defensive self-auditing prose, and claims of 'first' without thorough verification. Write naturally with clear subjects and explicit causal limits.
